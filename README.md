@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="28px">
 
-- 🎓 Final Year Undergraduate Student at ITNU  
+- 🎓 Final Year Undergraduate Student at Nirma University
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahek-shah-171354263/)
 
 <hr>
